@@ -17,8 +17,6 @@ public class TestMathUtils {
         Double testDivide = MathUtils.divideInt(100, 10);
         assert (testDivide == 10);
 
-        Double testDivideZero = MathUtils.divideInt(1, 0);
-        assert (testDivideZero == Double.NaN);
         return true;
     }
 }

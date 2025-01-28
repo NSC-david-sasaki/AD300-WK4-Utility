@@ -2,10 +2,10 @@
 This project implements four math functions for integers,
 which take two inputs. 
 
-intAdd(a,b)
-intSubject(a,b)
-intMultiply(a,b)
-intDivide(a,b)
+addInt(a,b)
+subtractInt(a,b)
+multiplyInt(a,b)
+divideInt(a,b)
 
 # Building
 Built using gradle
